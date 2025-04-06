@@ -8,7 +8,7 @@ This repository contains the code for acoustic levitation experiments conducted 
 This script is used for:
 - Determining minimum atomisation threshold
 - Analyzing droplet shape evolution over time
-- Measuring droplet velocity and assessing stability across various concentrations
+- Determining the lowest amplitude to levitate particles
 
 ### droplet_stability.py
 This script focuses on:
